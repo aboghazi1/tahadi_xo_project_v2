@@ -1,0 +1,170 @@
+[
+  {
+    "letter": "ب",
+    "category": "الكويت",
+    "question": "نوع من أنواع الفواكه الصيفية؟",
+    "answer": "بطيخ"
+  },
+  {
+    "letter": "س",
+    "category": "السعودية",
+    "question": "مدينة سعودية مشهورة تبدأ بحرف س؟",
+    "answer": "سعودية"
+  },
+  {
+    "letter": "م",
+    "category": "معلومات عامة",
+    "question": "اسم كوكب يبدأ بحرف م؟",
+    "answer": "مريخ"
+  },
+  {
+    "letter": "ا",
+    "category": "اسلامية",
+    "question": "اسم نبي يبدأ بحرف ا؟",
+    "answer": "اإبراهيم"
+  },
+  {
+    "letter": "ف",
+    "category": "كرة قدم",
+    "question": "منتخب يبدأ بحرف ف؟",
+    "answer": "فرنسا"
+  },
+  {
+    "letter": "ع",
+    "category": "افلام",
+    "question": "ممثل اسمه يبدأ بحرف ع؟",
+    "answer": "عادل"
+  },
+  {
+    "letter": "ن",
+    "category": "علوم",
+    "question": "جزء من النبات يبدأ بحرف ن؟",
+    "answer": "نبات"
+  },
+  {
+    "letter": "ك",
+    "category": "براندات",
+    "question": "ماركة تبدأ بحرف ك؟",
+    "answer": "كوكاكولا"
+  },
+  {
+    "letter": "ل",
+    "category": "مسلسلات خليجية",
+    "question": "مسلسل يبدأ بحرف ل؟",
+    "answer": "لؤلؤ"
+  },
+  {
+    "letter": "ش",
+    "category": "انمي",
+    "question": "اسم أنمي يبدأ بحرف ش؟",
+    "answer": "شين"
+  },
+  {
+    "letter": "ص",
+    "category": "سبيستون",
+    "question": "قناة كرتونية تبدأ بحرف ص؟",
+    "answer": "صبّار"
+  },
+  {
+    "letter": "ت",
+    "category": "كرتون قديم",
+    "question": "شخصية كرتونية تبدأ بحرف ت؟",
+    "answer": "توم"
+  },
+  {
+    "letter": "د",
+    "category": "معلومات عامة",
+    "question": "مدينة تبدأ بحرف د؟",
+    "answer": "دبي"
+  },
+  {
+    "letter": "ر",
+    "category": "رياضة متنوعة",
+    "question": "لاعب اسمه يبدأ بحرف ر؟",
+    "answer": "رونالدو"
+  },
+  {
+    "letter": "ح",
+    "category": "اسلامية",
+    "question": "مكان مقدس يبدأ بحرف ح؟",
+    "answer": "حرم"
+  },
+  {
+    "letter": "غ",
+    "category": "مسلسلات خليجية",
+    "question": "اسم مسلسل يبدأ بحرف غ؟",
+    "answer": "غريب"
+  },
+  {
+    "letter": "ظ",
+    "category": "معلومات عامة",
+    "question": "كلمة تبدأ بحرف ظ؟",
+    "answer": "ظرف"
+  },
+  {
+    "letter": "ط",
+    "category": "افلام",
+    "question": "فيلم يبدأ بحرف ط؟",
+    "answer": "طوفان"
+  },
+  {
+    "letter": "ق",
+    "category": "علوم",
+    "question": "جهاز يبدأ بحرف ق؟",
+    "answer": "قلم"
+  },
+  {
+    "letter": "ه",
+    "category": "معلومات عامة",
+    "question": "شيء يبدأ بحرف ه؟",
+    "answer": "هلال"
+  },
+  {
+    "letter": "و",
+    "category": "منتجات",
+    "question": "منتج يبدأ بحرف و؟",
+    "answer": "ورق"
+  },
+  {
+    "letter": "ي",
+    "category": "شعارات",
+    "question": "شعار يبدأ بحرف ي؟",
+    "answer": "يمامة"
+  },
+  {
+    "letter": "ز",
+    "category": "عطور",
+    "question": "عطر يبدأ بحرف ز؟",
+    "answer": "زهر"
+  },
+  {
+    "letter": "خ",
+    "category": "معلومات عامة",
+    "question": "حيوان يبدأ بحرف خ؟",
+    "answer": "خروف"
+  },
+  {
+    "letter": "ذ",
+    "category": "معلومات عامة",
+    "question": "شيء يبدأ بحرف ذ؟",
+    "answer": "ذئب"
+  },
+  {
+    "letter": "ث",
+    "category": "سبيستون",
+    "question": "شخصية تبدأ بحرف ث؟",
+    "answer": "ثعلب"
+  },
+  {
+    "letter": "ض",
+    "category": "علوم",
+    "question": "مصطلح علمي يبدأ بحرف ض؟",
+    "answer": "ضوء"
+  },
+  {
+    "letter": "ق",
+    "category": "كرة سلة امريكية",
+    "question": "نجم كرة سلة يبدأ بحرف ق؟",
+    "answer": "قريب"
+  }
+]
